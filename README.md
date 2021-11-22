@@ -7,7 +7,7 @@
 
 ## 😎 프로젝트 결과 페이지
 
-[결과 페이지 보러 가기](https://iborymagic-payments.netlify.app/)
+결과 페이지 보러 가기: [https://iborymagic-payments.netlify.app/](https://iborymagic-payments.netlify.app/)
 
 ## 🚀 Getting Started
 
